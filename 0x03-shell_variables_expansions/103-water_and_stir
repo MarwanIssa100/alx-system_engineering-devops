@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $((WATER + STIR))
+echo $WATER$STIR | tr 'waterstir' 'bestchol'
+
