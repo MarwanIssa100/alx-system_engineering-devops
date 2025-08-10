@@ -1,5 +1,8 @@
 # Distributed Web Infrastructure Design
 
+![Distributed Web Infrastructure Design](distributed_infrastructure.jpeg)
+
+
 ## Overview
 This document describes a three-server web infrastructure that hosts the website www.foobar.com with load balancing and database replication for improved reliability and performance.
 

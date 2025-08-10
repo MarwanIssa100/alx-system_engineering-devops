@@ -1,5 +1,8 @@
 # Secured and Monitored Web Infrastructure Design
 
+![Secured and Monitored Web Infrastructure Design](Secured_and_monitored_web_infrastructure.jpeg)
+
+
 ## Overview
 This document describes a three-server web infrastructure that hosts the website www.foobar.com with comprehensive security measures, encrypted traffic, and monitoring capabilities.
 
